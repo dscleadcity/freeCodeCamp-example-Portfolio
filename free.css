@@ -1,3 +1,8 @@
-p {
+body {
+  color: #f0f0f0;
+  background-color: #212121;
+}
+
+#welcome-section {
   text-align: center;
 }
