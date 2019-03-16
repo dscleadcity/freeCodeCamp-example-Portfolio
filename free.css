@@ -11,7 +11,7 @@ body {
   margin-left: 2em;
 }
 
-a {
+.project-tile {
   display: block;
   padding: 1em 0 1em 0;
 }
