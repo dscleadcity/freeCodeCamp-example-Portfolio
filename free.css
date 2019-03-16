@@ -30,3 +30,11 @@ li {
   background-color: #3cb371;
   color: #f1f1f1;
 }
+
+.github {
+  padding-top: 0.4em;
+}
+
+#profile-link {
+  color: #3cb371
+}
