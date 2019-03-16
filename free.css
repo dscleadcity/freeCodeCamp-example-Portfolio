@@ -8,6 +8,10 @@ body {
   text-align: center;
 }
 
+p {
+  color: #3cb371;
+}
+
 #projects {
   text-align: center;
 }
@@ -15,4 +19,14 @@ body {
 .project-tile {
   display: block;
   padding: 1em 0 1em 0;
+}
+
+nav {
+  background-color: #212121;
+}
+
+li {
+  padding: 0.5em;
+  background-color: #3cb371;
+  color: #f1f1f1;
 }
