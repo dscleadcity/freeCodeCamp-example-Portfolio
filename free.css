@@ -1,3 +1,5 @@
+@import url('https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css');
+
 body {
   margin: 3em;
   color: #212121;
@@ -21,8 +23,10 @@ p {
   padding: 1em 0 1em 0;
 }
 
+
+
 nav {
-  background-color: #212121;
+background-color: #212121;
 }
 
 li {
@@ -37,4 +41,11 @@ li {
 
 #profile-link {
   color: #3cb371
+}
+
+@media (max-height: 600px) {
+  #media1 {
+  font-size: 15px;
+  background-color: aqua;
+  }
 }
